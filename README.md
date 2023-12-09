@@ -9,7 +9,7 @@
  
 - **Tasks:**
 
-    **1. Top 10 Products by Percentage Increase in Net Sales (2020 to 2021):**
+    **1. _[Top 10 Products](https://github.com/ankitsingh279110/Excel-Sales_Analytics/blob/main/Customer%20Net%20Sales%20Performance.pdf)_ by Percentage Increase in Net Sales (2020 to 2021):**
     
   - Utilize sales data to identify and rank the top 10 products based on the percentage increase in their net sales from 2020 to 2021.
   - Present findings in a visually appealing report for easy interpretation.
